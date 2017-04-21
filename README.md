@@ -1,9 +1,9 @@
 
-##### Lista de Frutas
+# Lista de Frutas
 
 Ejercicio Evaluado
 
-##### Descripción:
+# Descripción:
 
 Esta es una página de una frutería.
 
